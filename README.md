@@ -21,4 +21,6 @@
 
 ### [2.3.2 User Task Matrix](#user-task-matrix)
 
-### [2.3.4 As-is Scenario Mapping](#user-journey-mapping)
+### [2.3.3 Empathy Mapping.](#Empathy Mapping)
+
+### [2.3.4 As-is Scenario Mapping](#As-is Scenario Mapping)
