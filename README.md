@@ -6,17 +6,17 @@
 ![LogoUpc](images/upcLogo.png)
 
   <p align="center">
-    Ingeniería de Software - 202402
+    Ingeniería de Software - 202501
     <br />
-    SV54 - Desarrollo de Aplicaciones Open Source
+    2510 - Fundamentos de Arquitectura de Software
     <br />
-    Hugo Allan Mori Paiva
+    Ernesto Ocampo Tello
     <br />
     Informe de Trabajo Final
     <br />
-    Startup: VillaSystem
+    Startup: -
     <br />
-    Proyecto: GrapeFlow
+    Proyecto: ElixirLine
   </p>
 
    <table border="1">
@@ -25,7 +25,7 @@
             <th>Codigo</th>
         </tr>
         <tr> 
-            <td>Armas Sánchez, Oscar Javier</td>
+            <td> </td>
             <td>U20211G192</td>
         </tr>
         <tr> 
@@ -37,17 +37,17 @@
             <td>U202215285</td>
         </tr>
         <tr> 
-            <td>Huincho Lapa, Diego Arturo</td>
+            <td> </td>
             <td>U201923466</td>
         </tr>
         <tr> 
-            <td>Salhuana Lopez, Fernando Jose</td>
+            <td> </td>
             <td>U201622757</td>
         </tr>
     </table>
 
   <p align="center">
-    Agosto-2024
+    Abril 06 del 2025
   </p>
 
 </div>
